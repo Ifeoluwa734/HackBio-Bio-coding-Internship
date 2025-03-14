@@ -40,5 +40,5 @@ We created a function that:
 •	Compares them character by character to count the differences.
 •	Returns the Hamming distance (i.e., how “different” they are).
 
-Here's the link to our script, https://github.com/aloyetunde/HackBio_Coding_Internship/blob/main/STAGE%201/All_codes , feel free to run the codes to replicate what we've done!😊
+Here's the [link](https://github.com/Ifeoluwa734/HackBio-Bio-coding-Internship/blob/main/Stage_1/Code) to our script, feel free to run the codes to replicate what we've done!😊
 
